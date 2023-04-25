@@ -4,5 +4,6 @@ using namespace std;
 void main()
 {
 	setlocale(LC_ALL, "");
-	//TE
+	const int size = 5;
+	int arr[size];
 }
